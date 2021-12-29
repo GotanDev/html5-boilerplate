@@ -29,7 +29,7 @@ It uses Webpack and Node, so you get all that sweet auto dependency management a
 ### Node / WebPack use
 * To run the development server with live reload
     ```
-      npm run watch
+      npm run serve
     ```
 * To build your entire page :
     ```

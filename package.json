@@ -24,7 +24,8 @@
   },
   "scripts": {
     "serve": "npx webpack serve --mode=development ",
-    "watch": "npx webpack watch --mode=development"
+    "watch": "npx webpack watch --mode=development",
+    "build": "npx webpack build --mode=production"
   },
   "dependencies": {
     "bootstrap": "^5.1.3",
