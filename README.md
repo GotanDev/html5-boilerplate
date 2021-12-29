@@ -8,7 +8,7 @@ It includes
 * LiveReload embedded dev local server
 
 You can activate optional libraries in `index.js` and `package.json` files 
-* [FullPage.js](http://alvarotrigo.com/fullPage/#firstPage) for smart & responsivenavigation
+* [FullPage.js](http://alvarotrigo.com/fullPage/#firstPage) for smart & responsive navigation
 * [Bootstrap 5](https://getbootstrap.com)
 
 It uses Webpack and Node, so you get all that sweet auto dependency management and Livereload.
